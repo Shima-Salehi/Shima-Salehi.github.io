@@ -61,7 +61,7 @@ plugins:
  
 author:
   name             : "Shima Salehi"
-  avatar           : "/assets/images/shima.jpg" # Update this path with the correct image location in your repository
+  avatar           : "/assets/images/Shima.jpg" # Update this path with the correct image location in your repository
   bio              : "PhD student in Computer Engeeniring at Texas A&M University"
   location         : "College Station, TX"
   email            : "shima.salehi@tamu.edu"
