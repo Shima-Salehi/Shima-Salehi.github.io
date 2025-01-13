@@ -66,9 +66,9 @@ author:
   location         : "College Station, TX"
   email            : "shima.salehi@tamu.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:shima.salehi@tamu.edu"
+ #   - label: "Email"
+  #    icon: "fas fa-fw fa-envelope-square"
+   #   url: "mailto:shima.salehi@tamu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shima-salehi"
