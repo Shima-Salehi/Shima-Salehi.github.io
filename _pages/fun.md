@@ -1,4 +1,3 @@
-
 ---
 permalink: /fun/
 title: "🎨 Fun Time "
