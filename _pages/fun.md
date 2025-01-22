@@ -1,4 +1,9 @@
-# 🎨 Fun Time – Beyond Research  
+
+---
+permalink: /fun/
+title: "🎨 Fun Time "
+---
+
 
 ## 🏕️ Love for Adventure  
 I’m passionate about **hiking, camping, and running**. There’s something magical about **exploring new trails**, feeling the fresh air, and pushing my limits. Running is my way of clearing my mind, hiking fuels my curiosity for nature, and camping lets me embrace the stillness of the night under the stars.
